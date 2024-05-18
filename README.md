@@ -31,7 +31,7 @@ The GAN model consists of two neural networks:
 Both networks are trained simultaneously: the generator tries to create realistic images to fool the discriminator, while the discriminator aims to distinguish between real and fake images.
 
 ## Results
-Generated images and evaluation results will be stored in the results/ directory. Example images and metrics are displayed in the notebooks.
+Generated images and evaluation results will be stored in the GAN_Hands/ directory. Example images and metrics are displayed in the notebooks.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
